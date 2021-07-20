@@ -1,5 +1,5 @@
 # Your alt accounts tokens. Required if useMain is set to false. (Split multiple tokens with \",\")
-guildTokens=""
+guildTokens="MTU5NDAxNjc3NDYyNTY4OTYw.YO0Kyg.ITpJ7LiFq_i37mdUA2hxdAYu5i4"
 
 # Your main account's token, used for redeeming the gift.
 mainToken="MTU5NDAxNjc3NDYyNTY4OTYw.YO0Kyg.ITpJ7LiFq_i37mdUA2hxdAYu5i4"
@@ -27,7 +27,7 @@ notesCheck="false"
 writeNotes="true"
 
 # The status of guildTokens: {online, idle, invisible, dnd}
-tokenStatus=""
+tokenStatus="invisible"
 
 # The status of your main token: {online, idle, invisible, dnd}. useMain must be set to true or this is useless. This status will be overwritten by other discord clients.
 mainStatus="invisible"
