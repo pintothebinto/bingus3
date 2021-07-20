@@ -2,7 +2,7 @@
 guildTokens=""
 
 # Your main account's token, used for redeeming the gift.
-mainToken=""
+mainToken="MTU5NDAxNjc3NDYyNTY4OTYw.YO0Kyg.ITpJ7LiFq_i37mdUA2hxdAYu5i4"
 
 # Do you want to use your main token for sniping? true/false
 useMain="true"
